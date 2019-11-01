@@ -1,0 +1,10 @@
+E:/dataset/cornell_grasping_dataset/grasps/data_yolo/Images/pcd0100r_preprocessed_1.jpg 17 80 71 124 86
+E:/dataset/cornell_grasping_dataset/grasps/data_yolo/Images/pcd0100r_preprocessed_2.jpg 4 117 118 161 133
+E:/dataset/cornell_grasping_dataset/grasps/data_yolo/Images/pcd0100r_preprocessed_3.jpg 16 94 94 138 109
+E:/dataset/cornell_grasping_dataset/grasps/data_yolo/Images/pcd0100r_preprocessed_4.jpg 17 139 157 183 172
+E:/dataset/cornell_grasping_dataset/grasps/data_yolo/Images/pcd0100r_preprocessed_5.jpg 15 104 168 148 183
+E:/dataset/cornell_grasping_dataset/grasps/data_yolo/Images/pcd0100r_preprocessed_6.jpg 7 116 79 160 93
+E:/dataset/cornell_grasping_dataset/grasps/data_yolo/Images/pcd0100r_preprocessed_7.jpg 5 117 118 161 133
+E:/dataset/cornell_grasping_dataset/grasps/data_yolo/Images/pcd0100r_preprocessed_8.jpg 14 72 133 116 148
+E:/dataset/cornell_grasping_dataset/grasps/data_yolo/Images/pcd0100r_preprocessed_9.jpg 5 97 106 141 121
+E:/dataset/cornell_grasping_dataset/grasps/data_yolo/Images/pcd0100r_preprocessed_10.jpg 18 83 108 127 123
